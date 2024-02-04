@@ -1,5 +1,9 @@
 # A Simple Counter App
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## Description
 
 The App displays a counter value starting from zero.
